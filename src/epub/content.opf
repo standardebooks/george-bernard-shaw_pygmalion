@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/george-bernard-shaw/pygmalion</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2019-02-27T19:45:39Z</dc:date>
+		<meta property="dcterms:modified">2019-02-27T19:45:39Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -44,18 +44,18 @@
 		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/3825</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Drama</meta>
-		<dc:description id="description">An arrogant upperclass professor bets a colleague he can transform a simple flower girl into a “Duchess” in just six months.</dc:description>
+		<dc:description id="description">An arrogant upper-class professor bets a colleague he can transform a simple flower girl into a “Duchess” in just six months.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Pygmalion&lt;/i&gt; is a 5-act play by George Bernard Shaw. It was written in 1912 and first produced in 1913. The plot revolves around Professor Henry Higgins’ bet with a colleague over whether he can transform a low-class flower girl, Liza Doolittle, into the equivalent of a Duchess in just 6 months. Pygmalion was a Greek mythological figure who fell in love with a sculpture he had carved and was a popular theme in Victorian drama.&lt;/p&gt;
-			&lt;p&gt;Most people would be familiar with the characters Eliza Doolittle and Henry Higgins from the hit 1956 musical &lt;i&gt;My Fair Lady&lt;/i&gt; which was adapted from &lt;i&gt;Pygmalion&lt;/i&gt; but the plots differ in small but significant ways. In particular Shaw wanted to avoid any sense of a “happy ending” and, after viewing a performance of the play where an extra scene had been added, he wrote a sequel which definitively states what came after and which was included in the published edition.&lt;/p&gt;
+			&lt;p&gt;Most people would be familiar with the characters Eliza Doolittle and Henry Higgins from the hit 1956 musical &lt;i&gt;My Fair Lady&lt;/i&gt;, which was adapted from &lt;i&gt;Pygmalion&lt;/i&gt;, though the plots differ in small but significant ways. In particular Shaw wanted to avoid any sense of a “happy ending” and, after viewing a performance of the play where an extra scene had been added, he wrote a sequel which definitively states what came after. The sequel was included in the published edition.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3825</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001112397</dc:source>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<meta property="se:word-count">34766</meta>
+		<meta property="se:reading-ease.flesch">76.93</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Pygmalion</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-bernard-shaw_pygmalion</meta>
 		<dc:creator id="author">George Bernard Shaw</dc:creator>
@@ -83,6 +83,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://rightword.com.au/david.php</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
