@@ -43,15 +43,17 @@
 		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/3825</meta>
 		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/3825</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">An arrogant upperclass professor bets a colleague he can transform a simple flower girl into a “Duchess” in just six months</dc:description>
+		<meta property="se:subject">Drama</meta>
+		<dc:description id="description">An arrogant upperclass professor bets a colleague he can transform a simple flower girl into a “Duchess” in just six months.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Pygmalion&lt;/i&gt; is a 5-act play by George Bernard Shaw. It was written in 1912 and first produced in 1913. The plot revolves around Professor Henry Higgins’ bet with a colleague over whether he can transform a low-class flower girl, Liza Doolittle, into the equivalent of a Duchess in just 6 month. Pygmalion was Greek mythological figure who fell in love with a sculpture he had carved and was a popular theme in Victorian drama.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Pygmalion&lt;/i&gt; is a 5-act play by George Bernard Shaw. It was written in 1912 and first produced in 1913. The plot revolves around Professor Henry Higgins’ bet with a colleague over whether he can transform a low-class flower girl, Liza Doolittle, into the equivalent of a Duchess in just 6 months. Pygmalion was a Greek mythological figure who fell in love with a sculpture he had carved and was a popular theme in Victorian drama.&lt;/p&gt;
 			&lt;p&gt;Most people would be familiar with the characters Eliza Doolittle and Henry Higgins from the hit 1956 musical &lt;i&gt;My Fair Lady&lt;/i&gt; which was adapted from &lt;i&gt;Pygmalion&lt;/i&gt; but the plots differ in small but significant ways. In particular Shaw wanted to avoid any sense of a “happy ending” and, after viewing a performance of the play where an extra scene had been added, he wrote a sequel which definitively states what came after and which was included in the published edition.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3825</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/001112397</dc:source>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Pygmalion</meta>
@@ -65,7 +67,6 @@
 		<dc:contributor id="artist">Howard Cushing</dc:contributor>
 		<meta property="file-as" refines="#artist">Cushing, Howard</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Howard Gardiner Cushing</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVERARTISTNACOAFLINK</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Eve Sobol</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Sobol, Eve</meta>
