@@ -1,10 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-i i{
-	font-style: normal;
-}
-
 [epub|type~="z3998:drama"]{
 	border-collapse: collapse;
 }
