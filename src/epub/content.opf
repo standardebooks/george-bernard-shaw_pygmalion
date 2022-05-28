@@ -55,7 +55,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3825</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001112397</dc:source>
-		<meta property="se:word-count">34765</meta>
+		<meta property="se:word-count">34761</meta>
 		<meta property="se:reading-ease.flesch">76.93</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Pygmalion</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-bernard-shaw_pygmalion</meta>
