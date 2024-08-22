@@ -61,7 +61,7 @@ i [epub|type~="z3998:persona"]{
 	font-variant: all-small-caps;
 }
 
-section[epub|type~="z3998:scene"] > p{
+section[epub|type~="conclusion"] > p{
 	margin: 1em auto;
 	width: 75%;
 }
