@@ -90,6 +90,9 @@
 		<meta property="file-as" refines="#producer-2">Grigg, David</meta>
 		<meta property="se:url.homepage" refines="#producer-2">https://thegriggs.org/david/</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
+		<dc:contributor id="producer-3">Asher Smith</dc:contributor>
+		<meta property="file-as" refines="#producer-3">Smith, Asher</meta>
+		<meta property="role" refines="#producer-3" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
