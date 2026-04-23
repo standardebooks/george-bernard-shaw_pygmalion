@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="act-4.xhtml">
+		<ignore code="t-041">
+			<line>176</line>
+			<reason>Punctuation used as dialogue.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
