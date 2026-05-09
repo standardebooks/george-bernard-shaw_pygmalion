@@ -2,7 +2,7 @@
 <se-lint-ignore>
 	<file path="act-4.xhtml">
 		<ignore code="t-041">
-			<line>176</line>
+			<line>175</line>
 			<reason>Punctuation used as dialogue.</reason>
 		</ignore>
 	</file>
