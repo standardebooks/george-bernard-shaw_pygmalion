@@ -49,7 +49,7 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">Unknown</meta>
 		<meta property="schema:genre">Drama</meta>
-		<dc:abstract>An arrogant upper-class professor bets a colleague he can transform a simple flower girl into a “Duchess” in just six months.</dc:abstract>
+		<meta property="schema:abstract">An arrogant upper-class professor bets a colleague he can transform a simple flower girl into a “Duchess” in just six months.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Pygmalion&lt;/i&gt; is a 5-act play by &lt;a href="https://standardebooks.org/ebooks/george-bernard-shaw"&gt;George Bernard Shaw&lt;/a&gt;. It was written in 1912 and first produced in 1913. The plot revolves around Professor Henry Higgins’ bet with a colleague over whether he can transform a low-class flower girl, Liza Doolittle, into the equivalent of a Duchess in just 6 months. Pygmalion was a Greek mythological figure who fell in love with a sculpture he had carved and was a popular theme in Victorian drama.&lt;/p&gt;
 			&lt;p&gt;Most people would be familiar with the characters Eliza Doolittle and Henry Higgins from the hit 1956 musical &lt;i&gt;My Fair Lady&lt;/i&gt;, which was adapted from &lt;i&gt;Pygmalion&lt;/i&gt;, though the plots differ in small but significant ways. In particular Shaw wanted to avoid any sense of a “happy ending” and, after viewing a performance of the play where an extra scene had been added, he wrote a sequel which definitively states what came after. The sequel was included in the published edition.&lt;/p&gt;
